@@ -47,6 +47,13 @@ intersección.</li>
 <li>Ejercicio práctico integrando conceptos vistos hasta el momento</li>
 </li>
 </ul>
+<p>Clase 5</p>
+<ul>
+<li>Matplotlib</li>
+</ul>
+</li>
+</ul>
+
 <pre>
 
 To be continued...
