@@ -53,7 +53,7 @@ intersección.</li>
 </ul>
 <p>Clase 6</p>
 <ul>
-<li>Matplotlib</li>
+<li>Matplotlib+Pandas+Numpy</li>
 </ul>
 </li>
 
