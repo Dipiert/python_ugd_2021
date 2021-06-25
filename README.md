@@ -51,13 +51,12 @@ intersección.</li>
 <ul>
 <li>Matplotlib</li>
 </ul>
-</li>
+<p>Clase 6</p>
+<ul>
+<li>Matplotlib</li>
 </ul>
+</li>
 
-<pre>
-
-To be continued...
-
-</pre>
+</ul>
 
 </details>
