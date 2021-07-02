@@ -55,6 +55,11 @@ intersección.</li>
 <ul>
 <li>Matplotlib+Pandas+Numpy</li>
 </ul>
+<p>Clase 7</p>
+<ul>
+<li>Exercises</li>
+</ul>
+
 </li>
 
 </ul>
